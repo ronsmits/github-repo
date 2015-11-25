@@ -1,0 +1,10 @@
+baseurl = "https://ronsmits.github.io"
+languageCode = "en-us"
+title = "Ron @ Github"
+theme = "hugo-theme-bootie-docs"
+
+[params]
+	description = "Boring site on github"
+	withSitePosts = true
+	mainMenu = ["about"]
+	repositoryUrl="https://github.com/ronsmits"
